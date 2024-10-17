@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects: </h2>
 
 - <b> Personal Utility and Automation Projects</b> 
-  - [Automated File Organizer](https://github.com/)
+  - [Automated File Organizer](https://github.com/PatrickMartins31/AutomatedFileOrganizer)
   - [Task Scheduler with Reminders](https://github.com/)
   
 - <b>Self-learning Projects</b>
