@@ -1,4 +1,4 @@
-<h1>Hi, I'm Patrick! <br/><a href="https://github.com/patrickmartins31"></a>, <a href="https://www.linkedin.com/in/patrick-m-2a9058aa/"> </h1>
+<h1>Hi, I'm Patrick! <br/><a href="https://github.com/patrickmartins31"></a></h1>
 
 <h2>👨‍💻 Software Development Projects: </h2>
 
