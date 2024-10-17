@@ -7,7 +7,7 @@
   - [Swiss Sports News Fetcher](https://github.com/PatrickMartins31/SwissSportsNewsFetcher)
   
 - <b>Self-learning Projects</b>
-  - [Stockmarket Predictor for S&P500](https://github.com/PatrickMartins31/AutomatedFileOrganizer)
+  - [Stockmarket Predictor for S&P500](https://github.com/PatrickMartins31/StockmarketPredictorS-P500)
   - Footballmatch Prediction for La Liga(Coming Soon)
 
 
