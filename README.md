@@ -8,7 +8,7 @@
   
 - <b>Self-learning Projects</b>
   - [Stockmarket Predictor for S&P500](https://github.com/PatrickMartins31/StockmarketPredictorS-P500)
-  - Footballmatch Prediction for La Liga(Coming Soon)
+  - "La Liga Football Match Forecasting (Coming Soon)
 
 
 - <b>Academic Project </b>
