@@ -12,7 +12,7 @@
 
 
 - <b>Academic Project </b>
-  - [Playing Card Detection for Blackjack](https://github.com/)
+  - [Playing Card Detection for Blackjack](https://github.com/PatrickMartins31/PlayingCardsDetectionBlackJack)
 
 <h2> 🎓 Certifications: </h2>
 
