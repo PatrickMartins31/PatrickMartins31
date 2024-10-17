@@ -4,7 +4,7 @@
 
 - <b> Personal Utility and Automation Projects</b> 
   - [Automated File Organizer](https://github.com/PatrickMartins31/AutomatedFileOrganizer)
-  - [Task Scheduler with Reminders](https://github.com/)
+  - [Swiss Sports News Fetcher](https://github.com/)
   
 - <b>Self-learning Projects</b>
 
